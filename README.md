@@ -63,9 +63,6 @@ Or let the script **automatically run daily at 8 AM** by keeping it running in t
 - Implement **a web dashboard** for visualization.
 - Integrate **Machine Learning** for predictive analysis.
 
-## License
-This project is open-source and licensed under the MIT License.
-
 ## Contact
 For any queries, feel free to reach out:
 - **GitHub**: [Your GitHub](https://github.com/amanjaiswal09)
